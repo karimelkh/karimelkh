@@ -10,6 +10,6 @@ My name is Karim and I'm a computer science student from Morocco. Here's some in
 
 ## Reach me by:
 
-:email [Email](karimelkhanoufi22@gmail.com)
-:linkedin [LinkedIn](https://www.linkedin.com/in/karim-elkhanoufi-088a46290/)
-:codepen [codepen](https://codepen.io/Karim-ELKHANOUFI)
+💬 [Email](karimelkhanoufi22@gmail.com) <br>
+📪 [LinkedIn](https://www.linkedin.com/in/karim-elkhanoufi-088a46290/) <br>
+⚡ [Codepen](https://codepen.io/Karim-ELKHANOUFI)
