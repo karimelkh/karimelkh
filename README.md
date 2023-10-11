@@ -12,5 +12,14 @@ Here's some info about me!
 
 
 ## 📪 Feel free to contact me via:
+
 - [Email](karimelkhanoufi22@gmail.com) <br>
 - [LinkedIn](https://www.linkedin.com/in/karim-elkhanoufi-088a46290/)
+
+
+## 💬 You can find me also on:
+
+- [Leetcode](https://leetcode.com/Karimelkh/)<br>
+- [Hackerrank](https://www.hackerrank.com/karimelkhanoufi1)<br>
+- [Codepen](https://codepen.io/Karim-ELKHANOUFI)
+
