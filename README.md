@@ -1,6 +1,6 @@
 # Hi there 👋
 
-My name is Karim and I'm a computer science student from Morocco.<br>
+My name is **Karim** and I'm a computer science student from Morocco.<br>
 Here's some info about me!
 
 
