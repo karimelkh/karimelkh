@@ -17,9 +17,16 @@ Here's some info about me!
 - [LinkedIn](https://www.linkedin.com/in/karim-elkhanoufi-088a46290/)
 
 
+## Stats
+
+[![Karim's GitHub stats](https://github-readme-stats.vercel.app/api?username=karimelkh)](https://github.com/anuraghazra/github-readme-stats)
+
+<!--
+
 ## 💬 You can find me also on:
 
 - [Leetcode](https://leetcode.com/Karimelkh/)<br>
 - [Hackerrank](https://www.hackerrank.com/karimelkhanoufi1)<br>
 - [Codepen](https://codepen.io/Karim-ELKHANOUFI)
 
+-->
