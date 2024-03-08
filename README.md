@@ -17,11 +17,18 @@ Here's some info about me!
 - [LinkedIn](https://www.linkedin.com/in/karim-elkhanoufi-088a46290/)
 
 
-## Stats
+## Little profile stats
 
-[![Karim's GitHub stats](https://github-readme-stats.vercel.app/api?username=karimelkh)](https://github.com/anuraghazra/github-readme-stats)<br>
-![karimelkh's Streak](https://github-readme-streak-stats.herokuapp.com/?user=karimelkh&theme=default&hide_border=false)<br>
-![karimelkh's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=karimelkh&theme=default&show_icons=true&hide_border=false&layout=compact)
+### General stats
+![karimelkh's Stats](https://github-readme-stats.vercel.app/api?username=karimelkh&theme=nord&show_icons=true&hide_border=true&count_private=true)
+
+### Straek stats
+![karimelkh's Streak](https://github-readme-streak-stats.herokuapp.com/?user=karimelkh&theme=nord&hide_border=true)
+
+### Most used languages
+![karimelkh's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=karimelkh&theme=nord&show_icons=true&hide_border=true&layout=compact)
+
+
 <!--
 
 ## 💬 You can find me also on:
