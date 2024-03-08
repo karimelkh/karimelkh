@@ -19,8 +19,8 @@ Here's some info about me!
 
 ## Stats
 
-[![Karim's GitHub stats](https://github-readme-stats.vercel.app/api?username=karimelkh)](https://github.com/anuraghazra/github-readme-stats)
-![karimelkh's Streak](https://github-readme-streak-stats.herokuapp.com/?user=karimelkh&theme=default&hide_border=false)
+[![Karim's GitHub stats](https://github-readme-stats.vercel.app/api?username=karimelkh)](https://github.com/anuraghazra/github-readme-stats)<br>
+![karimelkh's Streak](https://github-readme-streak-stats.herokuapp.com/?user=karimelkh&theme=default&hide_border=false)<br>
 ![karimelkh's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=karimelkh&theme=default&show_icons=true&hide_border=false&layout=compact)
 <!--
 
