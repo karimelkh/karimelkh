@@ -7,6 +7,7 @@ Here's some info about me!
 ## 🌱 Interests:
 
 - Web development
+- Operating systems
 - Embedded systems & Robotics
 - Cyber security
 
