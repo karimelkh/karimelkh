@@ -11,7 +11,7 @@ Here's some info about me!
 - Cyber security
 
 # 🌐 Socials:
-[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/0xmirak) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ke22) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/0xmirak) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:karimelkhanoufi22@gmail.com) 
+[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/0xmirak.bsky.social) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ke22) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/0xmirak) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:karimelkhanoufi22@gmail.com) 
 
 # 💻 Tech Stack:
 
